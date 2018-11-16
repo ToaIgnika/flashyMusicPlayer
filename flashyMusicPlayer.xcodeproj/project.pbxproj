@@ -15,6 +15,7 @@
 		8D06A41D219F47C300A4DD02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A41B219F47C300A4DD02 /* LaunchScreen.storyboard */; };
 		8D06A428219F47C300A4DD02 /* flashyMusicPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D06A427219F47C300A4DD02 /* flashyMusicPlayerTests.swift */; };
 		8D06A433219F47C300A4DD02 /* flashyMusicPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D06A432219F47C300A4DD02 /* flashyMusicPlayerUITests.swift */; };
+		8D06A441219F4A3800A4DD02 /* Doomsday.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A440219F4A3800A4DD02 /* Doomsday.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8D06A42E219F47C300A4DD02 /* flashyMusicPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashyMusicPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D06A432219F47C300A4DD02 /* flashyMusicPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashyMusicPlayerUITests.swift; sourceTree = "<group>"; };
 		8D06A434219F47C300A4DD02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D06A440219F4A3800A4DD02 /* Doomsday.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Doomsday.mp3; path = ../../../Downloads/Doomsday.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8D06A411219F47C200A4DD02 /* ViewController.swift */,
 				8D06A413219F47C200A4DD02 /* Main.storyboard */,
 				8D06A419219F47C300A4DD02 /* Assets.xcassets */,
+				8D06A440219F4A3800A4DD02 /* Doomsday.mp3 */,
 				8D06A41B219F47C300A4DD02 /* LaunchScreen.storyboard */,
 				8D06A41E219F47C300A4DD02 /* Info.plist */,
 				8D06A416219F47C200A4DD02 /* flashyMusicPlayer.xcdatamodeld */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D06A441219F4A3800A4DD02 /* Doomsday.mp3 in Resources */,
 				8D06A41D219F47C300A4DD02 /* LaunchScreen.storyboard in Resources */,
 				8D06A41A219F47C300A4DD02 /* Assets.xcassets in Resources */,
 				8D06A415219F47C200A4DD02 /* Main.storyboard in Resources */,
