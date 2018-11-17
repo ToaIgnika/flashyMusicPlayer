@@ -16,6 +16,10 @@
 		8D06A428219F47C300A4DD02 /* flashyMusicPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D06A427219F47C300A4DD02 /* flashyMusicPlayerTests.swift */; };
 		8D06A433219F47C300A4DD02 /* flashyMusicPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D06A432219F47C300A4DD02 /* flashyMusicPlayerUITests.swift */; };
 		8D06A441219F4A3800A4DD02 /* Doomsday.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A440219F4A3800A4DD02 /* Doomsday.mp3 */; };
+		8D06A445219F846F00A4DD02 /* Bang The Drum All Day.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A442219F846F00A4DD02 /* Bang The Drum All Day.mp3 */; };
+		8D06A446219F846F00A4DD02 /* Take A Chance On Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A443219F846F00A4DD02 /* Take A Chance On Me.mp3 */; };
+		8D06A447219F846F00A4DD02 /* Enlightenment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A444219F846F00A4DD02 /* Enlightenment.mp3 */; };
+		8D06A44B219F934D00A4DD02 /* Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D06A44A219F934D00A4DD02 /* Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,10 @@
 		8D06A432219F47C300A4DD02 /* flashyMusicPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashyMusicPlayerUITests.swift; sourceTree = "<group>"; };
 		8D06A434219F47C300A4DD02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D06A440219F4A3800A4DD02 /* Doomsday.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Doomsday.mp3; path = ../../../Downloads/Doomsday.mp3; sourceTree = "<group>"; };
+		8D06A442219F846F00A4DD02 /* Bang The Drum All Day.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Bang The Drum All Day.mp3"; path = "../../../Downloads/Bang The Drum All Day.mp3"; sourceTree = "<group>"; };
+		8D06A443219F846F00A4DD02 /* Take A Chance On Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Take A Chance On Me.mp3"; path = "../../../Downloads/Take A Chance On Me.mp3"; sourceTree = "<group>"; };
+		8D06A444219F846F00A4DD02 /* Enlightenment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Enlightenment.mp3; path = ../../../Downloads/Enlightenment.mp3; sourceTree = "<group>"; };
+		8D06A44A219F934D00A4DD02 /* Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3"; path = "../../../Downloads/Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +113,10 @@
 				8D06A411219F47C200A4DD02 /* ViewController.swift */,
 				8D06A413219F47C200A4DD02 /* Main.storyboard */,
 				8D06A419219F47C300A4DD02 /* Assets.xcassets */,
+				8D06A44A219F934D00A4DD02 /* Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3 */,
+				8D06A442219F846F00A4DD02 /* Bang The Drum All Day.mp3 */,
+				8D06A444219F846F00A4DD02 /* Enlightenment.mp3 */,
+				8D06A443219F846F00A4DD02 /* Take A Chance On Me.mp3 */,
 				8D06A440219F4A3800A4DD02 /* Doomsday.mp3 */,
 				8D06A41B219F47C300A4DD02 /* LaunchScreen.storyboard */,
 				8D06A41E219F47C300A4DD02 /* Info.plist */,
@@ -235,10 +247,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D06A44B219F934D00A4DD02 /* Being As An Ocean - the hardest part is forgetting those you swore you would never forget (Official Music Video) (HD).mp3 in Resources */,
+				8D06A446219F846F00A4DD02 /* Take A Chance On Me.mp3 in Resources */,
 				8D06A441219F4A3800A4DD02 /* Doomsday.mp3 in Resources */,
 				8D06A41D219F47C300A4DD02 /* LaunchScreen.storyboard in Resources */,
 				8D06A41A219F47C300A4DD02 /* Assets.xcassets in Resources */,
 				8D06A415219F47C200A4DD02 /* Main.storyboard in Resources */,
+				8D06A447219F846F00A4DD02 /* Enlightenment.mp3 in Resources */,
+				8D06A445219F846F00A4DD02 /* Bang The Drum All Day.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
